@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Riot todo</title>
+    <!-- <link rel="stylesheet" href="todo.css"> -->
+  </head>
+  <body>
+    <div riot-tag="todo"></div>
+    <!-- <toggler></toggler> -->
+    <script src="todo.tag" type="riot/tag"></script>
+    <script src="add-form.tag" type="riot/tag"></script>
+    <script src="./node_modules/riot/riot+compiler.min.js"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/g/riot@2.0(riot.min.js+compiler.min.js)"></script> -->
+    <script>
+      riot.mount('todo', {
+        title: 'Hello Riot!',
+        items: [
+          {
+            title: 'test',
+            done: false
+          },
+          {
+            title: 'hoge',
+            done: false
+          },
+          ]
+
+      })
+    </script>
+  </body>
+</html>
