@@ -149,7 +149,29 @@ ajax
 ぐらいしかないので、
 その2つの発動時にupdate()が働けばいい
 
+# riot
 [Riot.js ことはじめ - Qiita](http://qiita.com/m_mizutani/items/887817fd7390b04423ac)
+[フロント界隈で一番イケてるのは AngularJS でも React でもなく Riot.js だという話 | phiary](http://phiary.me/frontend-riot-js-no1/)
+[Riot.js 2.0 を触ってみた — まだReactで消耗しているの? - Qiita](http://qiita.com/cognitom/items/fb1295f3f93911e9e92d)
+[Riot.jsでフロントエンドの複雑さに反乱するときがやってきた - Qiita](http://qiita.com/aggre/items/928eb2bedbac6a7829c0#%E3%81%84%E3%81%BE%E5%BF%85%E8%A6%81%E3%81%AA%E3%82%82%E3%81%AE)
+[Riot vue](http://txchen.github.io/feplay/riot_vue/#markdown)
+
+# React
+[Reactを使うとなぜjQueryが要らなくなるのか - Qiita](http://qiita.com/naruto/items/fdb61bc743395f8d8faf#fn5)
+[React入門(1): Reactについて調べたのでまとめてみる – PAYFORWARD](http://blog.takanabe.tokyo/2015/05/19/583/)
+
+# 仮想DOM
+[なぜ仮想DOMという概念が俺達の魂を震えさせるのか - Qiita](http://qiita.com/mizchi/items/4d25bc26def1719d52e6)
+
+Virtual DOMこそ未来
+by mizchi氏
+
+[仮想DOMで魂が震えてから一年、仮想DOMとFluxの今 - Qiita](http://qiita.com/mizchi/items/82f205e16e78424df71b)
+
+# Vue.js
+
+[Vue.jsから手軽に始めるJavaScriptフレームワーク - Qiita](http://qiita.com/icoxfog417/items/49f7301be502bc2ad897)
+
 
 
 # アップデート発動条件
@@ -177,12 +199,7 @@ Reactみたいな仕組みがあるかわからないが、更新量は多そう
 メリット・デメリットがまとまっている。
 
 
-[なぜ仮想DOMという概念が俺達の魂を震えさせるのか - Qiita](http://qiita.com/mizchi/items/4d25bc26def1719d52e6)
-世界を革命する力を！
+ランキング
 
-
-Virtual DOMこそ未来
-by mizchi氏
-
-
+[2016年、ReactがAngularを抜いて1番人気に！ JSライブラリの利用意向はますます高まっている - Build Insider](http://www.buildinsider.net/hub/survey/201606-popularjs)
 
